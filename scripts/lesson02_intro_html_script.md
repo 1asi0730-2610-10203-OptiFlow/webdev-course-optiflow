@@ -1,6 +1,4 @@
-# Lección 2: Estructura HTML básica (OPF-64)
- 
-**Duración:** 10 minutos
+# Lección 2: Estructura HTML básica 
  
 ---
  
