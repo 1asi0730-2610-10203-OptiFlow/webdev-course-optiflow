@@ -22,7 +22,7 @@ teamname)
 - **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter) 
 
 
-### Lección 2: Introducción a HTML (7 minutos) 
+### Lección 2: Introducción a HTML (7:29 minutos) 
 
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
 - **Enlace**: [Ver la lección](https://youtu.be/Veah7B4TrqI)
