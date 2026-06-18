@@ -13,7 +13,13 @@ teamname]([https://github.com/yourusername/webdev-course-teamname](https://githu
 teamname) 
 
 ## Secuencia de la lección 
-### Lección 1: ¿Qué es el desarrollo web? (5 minutos) - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos. - **Enlace**: [Ver la lección]([https://www.youtube.com/watch?v=example-link1](https://youtu.be/G7Fa9LNg-G8) - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS). - **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter) 
+
+#### Lección 1: ¿Qué es el desarrollo web? (5 minutos) 
+
+- **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos. 
+- **Enlace**: [Ver la lección](https://youtu.be/G7Fa9LNg-G8)
+- **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
+- **Empieza a programar**: [Open CodePen](https://codepen.io/pen/?template=your-starter) 
 
 
 ### Lección 2: Introducción a HTML (7 minutos) - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página. - **Enlace**: [Ver la lección](I havent uploaded it to youtuve yet) - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`. - **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 
