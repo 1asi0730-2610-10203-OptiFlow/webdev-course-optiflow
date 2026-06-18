@@ -6,7 +6,7 @@ Duración: 5 minutos
 
 ## INTRODUCCIÓN
 
-LOCUTOR: Hola, bienvenido y bienvenida a este curso de 
+Hola, bienvenido y bienvenida a este curso de 
 Fundamentos de Desarrollo Web. Aquí vas a aprender a crear 
 sitios web desde cero, sin descargas ni complicaciones. 
 Y te prometo que al terminar este video, vas a ver la web 
@@ -16,7 +16,7 @@ de una manera completamente distinta.
 
 ## ¿QUÉ ES UN SITIO WEB?
 
-LOCUTOR: Piensa en tu sitio web favorito. Puede ser YouTube, 
+Piensa en tu sitio web favorito. Puede ser YouTube, 
 con todos sus videos y recomendaciones. O tal vez una tienda 
 en línea donde encuentras lo que necesitas. O el sitio web 
 de tu artista o equipo deportivo favorito.
@@ -33,7 +33,7 @@ y cómo hacerlo. Y eso es exactamente lo que vas a aprender aquí.
 
 ## HTML Y CSS: LOS DOS INGREDIENTES
 
-LOCUTOR: Todo sitio web que visitas está construido con dos 
+Todo sitio web que visitas está construido con dos 
 partes fundamentales: el contenido, que es todo lo que puedes 
 leer y ver, y el estilo, que define cómo se presenta visualmente.
 
@@ -53,7 +53,7 @@ encima para que se vea bien.
 
 ## ANALOGÍA: MINECRAFT
 
-LOCUTOR: ¿Recuerdas cómo se ve Minecraft sin texturas? Todo gris, 
+¿Recuerdas cómo se ve Minecraft sin texturas? Todo gris, 
 apagado y sin vida. Eso es exactamente HTML solo, sin nada de 
 estilo. Ahora mira el mismo mundo con el texture pack aplicado: 
 colores vivos, atardecer hermoso, todo lleno de detalle. 
@@ -63,7 +63,7 @@ Eso es lo que CSS hace.
 
 ## ESTO LO HARÁS TÚ
 
-LOCUTOR: Esta es una página web real y completa. Se ve bonita, 
+Esta es una página web real y completa. Se ve bonita, 
 está bien organizada y tiene estilo. Y te lo prometo: al final 
 de este curso, tú mismo vas a poder crear algo exactamente así.
 
@@ -71,7 +71,7 @@ de este curso, tú mismo vas a poder crear algo exactamente así.
 
 ## EL EDITOR: CODEPEN
 
-LOCUTOR: Este es CodePen, la herramienta que vamos a usar durante 
+Este es CodePen, la herramienta que vamos a usar durante 
 todo el curso. No necesitas instalar absolutamente nada en tu 
 computadora, solo abre tu navegador y ya puedes empezar. 
 Mira que tiene tres zonas bien definidas. Aquí a la izquierda 
@@ -105,7 +105,7 @@ pero no tienes CSS acompañándolo.
 
 ## RESUMEN
 
-LOCUTOR: HTML, que significa HyperText Markup Language, es el 
+HTML, que significa HyperText Markup Language, es el 
 lenguaje que se encarga de definir todo el contenido de tu 
 página web: los textos, las imágenes y todo lo que se puede ver.
 
@@ -130,7 +130,7 @@ Firefox o Safari, y puedes empezar.
 
 ## CIERRE Y RETO
 
-LOCUTOR: Entonces ya sabes: un sitio web es contenido hecho 
+Entonces ya sabes: un sitio web es contenido hecho 
 con HTML más estilo hecho con CSS. 
 
 ¡Ahora te toca a ti! Abre el enlace de CodePen que está en 
