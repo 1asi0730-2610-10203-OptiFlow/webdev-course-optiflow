@@ -25,7 +25,7 @@ teamname)
 ### Lección 2: Introducción a HTML (7 minutos) 
 
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página.
-- **Enlace**: [Ver la lección](I havent uploaded it to youtuve yet)
+- **Enlace**: [Ver la lección](https://youtu.be/Veah7B4TrqI)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
 - **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 
 
