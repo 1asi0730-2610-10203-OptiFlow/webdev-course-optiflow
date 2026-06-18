@@ -19,7 +19,9 @@ todo se trabaja directamente desde el navegador.
 
 ## Estructura del repositorio
 
-webdev-course-[equipo]/
+```
+
+webdev-course-optiflow/
 │
 ├── README.md                    ← Documentación principal
 ├── course-plan.md               ← Plan completo del curso
@@ -47,6 +49,7 @@ webdev-course-[equipo]/
     ├── lesson-04-script.md
     ├── lesson-05-script.md
     └── lesson-06-script.md
+```
 
 ## Cómo usar este repositorio
 
