@@ -12,7 +12,7 @@ Repositorio de código fuente**: [https://github.com/1asi0730-2610-10203-OptiFlo
 
 ## Secuencia de la lección 
 
-#### Lección 1: ¿Qué es el desarrollo web? (5 minutos) 
+### Lección 1: ¿Qué es el desarrollo web? (5 minutos) 
 
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos. 
 - **Enlace**: [Ver la lección](https://youtu.be/V5gFyq36HPk)
