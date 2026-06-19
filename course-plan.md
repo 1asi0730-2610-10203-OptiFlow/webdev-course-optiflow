@@ -2,7 +2,7 @@
 ## Resumen del Curso 
 Este curso te introducirá a la creación de sitios web sencillos con HTML y CSS. **¡No 
 requiere descargas!** Solo abre tu navegador web. 
-**Duración total**: ~30 - 60 minutos 
+**Duración total**: 38:09
 **Prerrequisitos**: Ninguno 
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge) 
 **
@@ -38,7 +38,7 @@ Repositorio de código fuente**: [https://github.com/1asi0730-2610-10203-OptiFlo
 
 
 **¡Comienza al instante!** 
-### Lección 4: Introducción a CSS (6 minutos) 
+### Lección 4: Introducción a CSS (6:20 minutos) 
 
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
 - **Enlace**: [Ver la lección](https://youtu.be/cVPjPqyTucs)
@@ -54,14 +54,23 @@ Repositorio de código fuente**: [https://github.com/1asi0730-2610-10203-OptiFlo
 - **Proyecto Final**: [Crea tu Perfil](https://codepen.io/pen/?template=your-starter) 
 
 
-**¡No es necesario registrarse!** 
+### Lección 6: ¡Crea tu primera página web! (9:16 minutos) 
+
+- **Descripción**: Crearás una página web más detallada y compleja siguiendo esta lección.
+- **Enlace**: [Ver la lección](https://youtu.be/SAqwKZ37EHo)
+- **Consejos clave**: Aplicar estilos y depurar errores.
+- **Proyecto Final**: [Crea tu Perfil](https://codepen.io/pen/?template=your-starter) 
+
+
+
+
 **¡Guarda y comparte!** 
 ## Recursos Adicionales - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname) - **Todas las Actividades Prácticas**: 
 | Lección # | Actividad | Empezar a Programar | 
 |----------|----------|-------------| 
-| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/your-lesson1) | 
-| 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) | 
-| 3 | Añadir imágenes | [JSFiddle](https://codepen.op/your-lesson3) | 
-| 4 | Estilo de la página | [CodePen](https://codepen.io/your-lesson4) | 
-| 5 | Página de perfil | [Replit](https://codepen.io/your-lesson5) | 
+| 1 | Explorar Sitios Web | [CodePen](https://codepen.io/pen/?template=your-starter) | 
+| 2 | Primera página HTML | [CodePen](https://codepen.io/pen/?template=your-starter) | 
+| 3 | Añadir imágenes | [CodePen](https://codepen.io/pen/?template=your-starter) | 
+| 4 | Estilo de la página | [CodePen](https://codepen.io/pen/?template=your-starter) | 
+| 5 | Página de perfil | [CodePen](https://codepen.io/pen/?template=your-starter) | 
 **¡Gracias por completar el curso!** 
