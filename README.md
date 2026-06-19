@@ -9,7 +9,7 @@ Este curso enseña los fundamentos del desarrollo web a través
 de lecciones cortas en video. No requiere instalar ningún programa: 
 todo se trabaja directamente desde el navegador.
 
-- **Duración total:** ~60 minutos
+- **Duración total:** 38 minutos con 26 segundos
 - **Público objetivo:** Estudiantes de 12 a 17 años sin experiencia 
   en programación
 - **Herramientas necesarias:** Solo un navegador web 
