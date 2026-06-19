@@ -56,13 +56,6 @@ teamname)
 - **Proyecto Final**: [Crea tu Perfil](https://replit.com/@your-final-project) 
 
 
-### Lección 6: Consejos y Próximos Pasos (10 minutos) 
-
-- **Descripción**: Mejores prácticas, errores comunes y dónde aprender más.
-- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link6)
-- **Consejos Clave**: Valida el código, explora la Documentación Web de MDN.
-- **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
-
 **¡No es necesario registrarse!** 
 **¡Guarda y comparte!** 
 ## Recursos Adicionales - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/yourusername/webdev-course-teamname) - **Todas las Actividades Prácticas**: 
